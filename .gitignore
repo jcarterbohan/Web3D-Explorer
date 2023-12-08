@@ -1,0 +1,12 @@
+/node_modules
+.DS_Store
+*.log
+.idea
+.vscode
+.cache
+.eslintcache
+package-lock.json
+/frontend/node_modules
+/frontend/bundler
+/frontend/package-lock.json
+/frontend/.parcel-cache

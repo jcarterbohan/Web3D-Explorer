@@ -1,0 +1,37 @@
+*
+{
+    /* margin: 0;
+    padding: 0;
+    position: fixed; */
+}
+
+html,
+body
+{
+    /* height: 100vh;
+    font-family: 'Poppins';
+    overflow: hidden;
+    margin: 0; */
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+    display: block;
+}
+
+#fps
+{
+    /* Set to top right of screen white text */
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: white;
+    font-size: 1.5em;
+    padding: 0.5em;
+    text-shadow: 0 0 10px black;
+    
+}
